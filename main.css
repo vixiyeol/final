@@ -5,7 +5,12 @@ body{
   margin-right: 10vw;
   font-size: calc(1vw);
 }
-  
+
+a{
+  color:#ffff;
+  text-decoration: none
+}
+
 .flex-container{
   display: flex;
   flex-direction:row;
