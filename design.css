@@ -1,0 +1,21 @@
+body{
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  text-align:center;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  font-size: calc(1vw);
+}
+
+.navigation{
+  list-style-type:none;
+  padding:0;
+  background-color:#B52121;
+  padding-bottom:1vw;
+  padding-top:1vw;
+  color:#ffff;
+  border-color:#4f6655;
+  display:inline;
+  padding-left:4.1vw;
+  padding-right:4.1vw;
+  margin-top:1vw;
+}
