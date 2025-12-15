@@ -6,9 +6,9 @@ body{
   font-size: calc(1vw);
 }
 
-a{
-  color:#ffff;
-  text-decoration: none
+.flex-container{
+  display: flex;
+  flex-direction:row;
 }
 
 .navigation{
@@ -28,4 +28,8 @@ a{
 #danceclean{
   margin-top: 2vw;
   margin-left: -45vw;
+}
+
+.cheugyimg{
+  width:24%;
 }
