@@ -6,6 +6,11 @@ body{
   font-size: calc(1vw);
 }
 
+a{
+  color:#ffff;
+  text-decoration: none
+}
+
 .navigation{
   list-style-type:none;
   padding:0;
