@@ -11,6 +11,10 @@ body{
   flex-direction:row;
 }
 
+a{
+  color:#ffff;
+  text-decoration: none
+}
 .navigation{
   list-style-type:none;
   padding:0;

@@ -5,7 +5,7 @@ body{
   margin-right: 10vw;
   font-size: calc(1vw);
 }
-
+  
 a{
   color:#ffff;
   text-decoration: none
@@ -24,10 +24,12 @@ a{
   padding-top:1vw;
   color:#ffff;
   border-color:#4f6655;
+}
+
+.navigation li{
   display:inline;
   padding-left:4.1vw;
   padding-right:4.1vw;
-  margin-top:1vw;
 }
   
   header h1{
