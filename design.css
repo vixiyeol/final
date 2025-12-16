@@ -38,6 +38,14 @@ div{
   padding-right:4.1vw;
 }
 
+  header h1{
+  background-color:#F4F4F4;
+  color:#B52121;
+  padding-top:6vw;
+  padding-bottom:6vw;
+  font-size: calc(5vw);
+  }
+
 .cheugyimg{
   width:24%;
 }
