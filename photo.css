@@ -11,6 +11,10 @@ body{
   flex-direction:row;
 }
 
+.flex-item{
+  
+}
+
 a{
   color:#ffff;
   text-decoration: none
@@ -36,12 +40,4 @@ div{
   display:inline;
   padding-left:4.1vw;
   padding-right:4.1vw;
-}
-
-.cheugyimg{
-  width:24%;
-}
-
-#clean-mockup{
-  width: 51%;
 }
