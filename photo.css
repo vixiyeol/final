@@ -11,10 +11,6 @@ body{
   flex-direction:row;
 }
 
-.flex-item{
-  
-}
-
 a{
   color:#ffff;
   text-decoration: none
@@ -41,3 +37,15 @@ div{
   padding-left:4.1vw;
   padding-right:4.1vw;
 }
+
+  header h1{
+  background-color:#F4F4F4;
+  color:#B52121;
+  padding-top:6vw;
+  padding-bottom:6vw;
+  font-size: calc(5vw);
+  background-image:url(https://i.pinimg.com/1200x/d8/4a/fa/d84afa8da467aff27032773dccf48b86.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 10% 45%;
+  }
