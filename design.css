@@ -66,16 +66,21 @@ img{
   background-color:#ffff;
   padding-bottom:1vw;
   padding-top:1vw;
-  padding-left: 33vw;
+  padding-left: 32vw;
   color:#000000;
   border-color:#4f6655;
-  border-radius: 1vw;
+  border-radius: 3vw;
+  position: sticky;
+  top: 0;
 }
 
 .navigation li{
   display:inline;
   padding-left:3vw;
   padding-right:3vw;
+  font-family: "Verdana", serif;
+  position: sticky;
+  top: 0;
 }
 
   header h1{
