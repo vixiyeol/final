@@ -27,14 +27,28 @@ body{
 }
 
 .flex-item{
-margin-left:0.5vw;
-margin-right:0.5vw;
+margin-left:2vw;
+margin-right:2vw;
+}
+
+#title{
+  font-size: calc(3vw);
+margin-bottom: -0.5vw;
+  
+}
+#mockup{
+  width:150%;
+}
+
+#lcdfinal{
+  width: 100%;
 }
 
 a{
   color:#000000;
   text-decoration: none;
 }
+
 
 div{
   padding-top: 0.5vw;
@@ -71,7 +85,9 @@ img{
   padding-bottom:6vw;
   font-size: calc(5vw);
   border-radius: 3vw;
-  background-image: url(https://i.pinimg.com/1200x/4b/c2/9b/4bc29b811f337a6b8186485baa3e6a66.jpg);
+  background-image: url(https://i.ibb.co/8g5V58tj/IMG-0738.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
   }
 
 h2{
@@ -79,12 +95,19 @@ h2{
 }
 
 
+img{
+  border-radius: 1vw;
+}
 
 
 footer{
   background-color: #000000;
   color: #f4f4f4;
+  margin-top: 2vw;
   padding-top: 1vw;
   padding-bottom: 1vw;
   border-radius: 3vw;
+  padding-left: 1vw;
+  font-family: "Verdana", serif;
+  text-align: left;
 }

@@ -52,17 +52,21 @@ div{
   padding-bottom:6vw;
   font-size: calc(5vw);
   border-radius: 3vw;
-  background-image: url(https://i.pinimg.com/736x/0f/1d/d8/0f1dd827a82ffb3b3ce77fdbe54395f9.jpg);
+  background-image: url(https://i.ibb.co/ZzvWhfQk/IMG-8777-2.png);
   background-repeat: no-repeat;
   background-size: 100%;
-  background-position: 10% 40%;
+  background-position: 5% 50%;
   }
 
 
 footer{
   background-color: #000000;
   color: #f4f4f4;
+  margin-top: 2vw;
   padding-top: 1vw;
   padding-bottom: 1vw;
   border-radius: 3vw;
+  padding-left: 1vw;
+  font-family: "Verdana", serif;
+  text-align: left;
 }
