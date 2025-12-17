@@ -10,10 +10,12 @@ body{
 .flex-container{
   display: flex;
   flex-direction:row;
+  justify-content: center;
 }
 
 .flex-item{
-
+margin-left: 0.5vw;
+margin-right: 0.5vw;
 }
 
 a{
@@ -57,7 +59,36 @@ div{
   background-size: 100%;
   background-position: 5% 50%;
   }
+#title{
+  font-size: calc(3vw);
+margin-bottom: -0.5vw;
+}
 
+#hlake{
+width: 60vw;
+}
+
+.tworow1{
+  width: 60vw;
+}
+
+.k-row1{
+  width:29vw;
+}
+
+.tworow2{
+  width: 29vw;
+}
+
+
+
+h2{
+ text-align: left;
+}
+
+img{
+  border-radius: 1vw;
+}
 
 footer{
   background-color: #000000;
