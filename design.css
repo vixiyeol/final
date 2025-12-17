@@ -116,3 +116,12 @@ footer{
   font-family: "Verdana", serif;
   text-align: left;
 }
+
+#creditlink{
+  text-align: right;
+    padding-top: 1vw;
+}
+
+.footerlink{
+  color: #f4f4f4;
+}

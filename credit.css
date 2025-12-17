@@ -53,3 +53,25 @@ a{
   font-size: calc(5vw);
   border-radius: 3vw;
   }
+
+
+  footer{
+  background-color: #000000;
+  color: #f4f4f4;
+  margin-top: 2vw;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+  border-radius: 3vw;
+  padding-left: 1vw;
+  font-family: "Verdana", serif;
+  text-align: left;
+}
+
+#creditlink{
+  text-align: right;
+    padding-top: 1vw;
+}
+
+.footerlink{
+  color: #f4f4f4;
+}
