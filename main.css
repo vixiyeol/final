@@ -67,6 +67,7 @@ a{
   font-size: calc(1.5vw);
   color:#B52121;
   background-color:#F4F4F4;
+  border-style: inset;
   border-color:#B52121;
  
 }
