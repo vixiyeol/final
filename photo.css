@@ -99,19 +99,29 @@ footer{
   background-color: #000000;
   color: #f4f4f4;
   margin-top: 2vw;
-  padding-top: 1vw;
-  padding-bottom: 1vw;
+  padding-top: 0vw;
+  padding-bottom: 0vw;
   border-radius: 3vw;
   padding-left: 1vw;
+  padding-right: 1vw;
   font-family: "Verdana", serif;
   text-align: left;
 }
 
 #creditlink{
   text-align: right;
-    padding-top: 1vw;
+  padding-top: 1.5vw;
 }
 
 .footerlink{
   color: #f4f4f4;
+}
+
+.flex-container2{
+  display: flex;
+  flex-direction:row;
+}
+
+.flex-item2{
+  width: 50%;  
 }
