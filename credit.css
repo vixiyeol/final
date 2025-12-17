@@ -48,12 +48,17 @@ a{
   header h1{
   background-color:#000000;
   color:#F4F4F4;
-  padding-top:6vw;
-  padding-bottom:6vw;
+  padding-top:3vw;
+  padding-bottom:3vw;
   font-size: calc(5vw);
-  border-radius: 3vw;
+  border-radius: 5vw;
   }
 
+.credit-text{
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  padding-left: 15vw;
+  font-size: calc(1.5vw);
+}
 
 footer{
   background-color: #000000;
