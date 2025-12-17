@@ -16,6 +16,10 @@ a{
   flex-direction:row;
 }
 
+.flex-item{
+  width: 50%;
+  
+}
 .navigation{
   list-style-type:none;
   padding:0;
@@ -35,19 +39,23 @@ a{
   header h1{
   background-color:#F4F4F4;
   color:#B52121;
-  padding-top:8vw;
-  padding-bottom:8vw;
+  padding-top:9vw;
+  padding-bottom:9vw;
   font-size: calc(5vw);
   }
 
 #headerimg {
-  margin-left: 10vw;
-  width: 90%;
+  margin-left: 1vw;
+  margin-right:1vw;
+  width: 100%;
+  border-radius: 2vw;
 }
 
 #intro {
   text-align: left;
-  margin-left: 12vw;
+  margin-left: 4vw;
   margin-right: 6vw;
+  font-family: "Verdana", serif;
+  font-size: calc(2vw);
  
 }
