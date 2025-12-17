@@ -65,8 +65,9 @@ a{
   border-radius: 2vw;
   font-family: "Verdana", serif;
   font-size: calc(1.5vw);
-  color:#f4f4f4;
-  background-color:#B52121;
+  color:#B52121;
+  background-color:#F4F4F4;
+  border-color:#B52121;
  
 }
 
