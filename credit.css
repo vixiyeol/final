@@ -15,11 +15,13 @@ a{
 .flex-container{
   display: flex;
   flex-direction:row;
+
 }
 
 .flex-item{
   width: 50%;  
 }
+
 .navigation{
   list-style-type:none;
   padding:0;
@@ -51,42 +53,3 @@ a{
   font-size: calc(5vw);
   border-radius: 3vw;
   }
-
-.intro{
-  text-align:left;
-  font-size: calc(1.1vw);
-  padding-right: 5vw;
-}
-#hi{
-  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
-  font-size: calc(6vw);
-  margin-top: 0vw;
-  margin-bottom: 0vw;
-}
- 
-#photome{
-  border-radius: 10vw;
-  width: 60%;
-}
-
-footer{
-  background-color: #000000;
-  color: #f4f4f4;
-  margin-top: 2vw;
-  padding-top: 1vw;
-  padding-bottom: 1vw;
-  border-radius: 3vw;
-  padding-left: 1vw;
-  padding-right: 1vw;
-  font-family: "Verdana", serif;
-  text-align: left;
-}
-
-#creditlink{
-  text-align: right;
-    padding-top: 1vw;
-}
-
-.footerlink{
-  color: #f4f4f4;
-}
