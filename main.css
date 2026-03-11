@@ -8,7 +8,7 @@ body{
 }
   
 a{
-  color:#000000;
+  color:#3d5591;
   text-decoration: none;
 }
 
@@ -27,8 +27,8 @@ a{
   padding-bottom:1vw;
   padding-top:1vw;
   padding-left: 32vw;
-  color:#000000;
-  border-color:#4f6655;
+  color:#3d5591;
+  border-color:#3d5591;
   border-radius: 3vw;
   position: sticky;
   top: 0;
@@ -44,7 +44,7 @@ a{
 }
   
   header h1{
-  background-color:#000000;
+  background-color:#3d5591;
   color:#F4F4F4;
   padding-top:6vw;
   padding-bottom:6vw;
