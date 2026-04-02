@@ -1,5 +1,6 @@
 body{
   font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-weight: lighter;
   text-align:center;
   margin-left: 10vw;
   margin-right: 10vw;
@@ -67,9 +68,8 @@ img{
   padding-bottom:1vw;
   padding-top:1vw;
   padding-left: 32vw;
-  color:#000000;
-  border-color:#4f6655;
-  border-radius: 3vw;
+  color:#3d5591;
+  border-color:#3d5591;
   position: sticky;
   top: 0;
 }
@@ -82,17 +82,16 @@ img{
   position: sticky;
   top: 0;
 }
-
+  
   header h1{
-  background-color:#F4F4F4;
-  color:#f4f4f4;
-  padding-top:6vw;
-  padding-bottom:6vw;
-  font-size: calc(5vw);
-  border-radius: 10vw;
-  background-image: url(https://i.ibb.co/8g5V58tj/IMG-0738.png);
-  background-repeat: no-repeat;
-  background-size: 100%;
+  background-color:#3d5591;
+  color:#F4F4F4;
+  padding-top:5vw;
+  padding-bottom:5vw;
+  font-size: calc(10vw);
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; 
+  font-weight: lighter;
+  font-style: italic;
   }
 
 h2{
@@ -106,12 +105,11 @@ img{
 
 
 footer{
-  background-color: #000000;
-  color: #f4f4f4;
+  background-color: #3d5591;
+  color: #F4F4F4;
   margin-top: 2vw;
-  padding-top: 0vw;
-  padding-bottom: 0vw;
-  border-radius: 3vw;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
   padding-left: 1vw;
   padding-right: 1vw;
   font-family: "Verdana", serif;

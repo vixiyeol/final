@@ -20,6 +20,7 @@ a{
 .flex-item{
   width: 50%;  
 }
+
 .navigation{
   list-style-type:none;
   padding:0;
@@ -27,9 +28,8 @@ a{
   padding-bottom:1vw;
   padding-top:1vw;
   padding-left: 32vw;
-  color:#000000;
-  border-color:#4f6655;
-  border-radius: 3vw;
+  color:#3d5591;
+  border-color:#3d5591;
   position: sticky;
   top: 0;
 }
@@ -43,14 +43,16 @@ a{
   top: 0;
 }
   
-header h1{
-  background-color: #000000;
-  color: #F4F4F4;
-  padding-top: 6vw;
-  padding-bottom:6vw;
-  font-size: calc(5vw);
-  border-radius: 10vw;
-}
+  header h1{
+  background-color:#3d5591;
+  color:#F4F4F4;
+  padding-top:5vw;
+  padding-bottom:5vw;
+  font-size: calc(10vw);
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; 
+  font-weight: lighter;
+  font-style: italic;
+  }
 
 #exclamation{
   font-size: calc(30vw);
@@ -65,12 +67,11 @@ header h1{
 }
 
 footer{
-  background-color: #000000;
-  color: #f4f4f4;
+  background-color: #3d5591;
+  color: #F4F4F4;
   margin-top: 2vw;
   padding-top: 1vw;
   padding-bottom: 1vw;
-  border-radius: 3vw;
   padding-left: 1vw;
   padding-right: 1vw;
   font-family: "Verdana", serif;

@@ -36,9 +36,8 @@ div{
   padding-bottom:1vw;
   padding-top:1vw;
   padding-left: 32vw;
-  color:#000000;
-  border-color:#4f6655;
-  border-radius: 3vw;
+  color:#3d5591;
+  border-color:#3d5591;
   position: sticky;
   top: 0;
 }
@@ -51,19 +50,19 @@ div{
   position: sticky;
   top: 0;
 }
-
+  
   header h1{
-  background-color:#F4F4F4;
-  color:#f4f4f4;
-  padding-top:6vw;
-  padding-bottom:6vw;
-  font-size: calc(5vw);
-  border-radius: 10vw;
-  background-image: url(https://i.ibb.co/ZzvWhfQk/IMG-8777-2.png);
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: 5% 50%;
+  background-color:#3d5591;
+  color:#F4F4F4;
+  padding-top:5vw;
+  padding-bottom:5vw;
+  font-size: calc(10vw);
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; 
+  font-weight: lighter;
+  font-style: italic;
   }
+
+  
 #title{
   font-size: calc(3vw);
 margin-bottom: -0.5vw;
